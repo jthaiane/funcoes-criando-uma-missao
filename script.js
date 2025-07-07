@@ -99,3 +99,4 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 mostraPergunta();
+///tentei
